@@ -1,6 +1,6 @@
 # CubeSat Deployable Structure — v2 (Multi-Part Assembly)
 
-A full multi-part 1U CubeSat structural assembly with mass-optimized lattice paneling and a deployable solar panel mechanism, modeled in SolidWorks and verified with FEA. This is a follow-up to a simpler single-body CubeSat chassis ([v1]([../cubesat-structural-chassis](https://github.com/christancottle/cubesat-structural-chassis))), rebuilt from the ground up as a real multi-part assembly with bolted joints, a working hinge mechanism, and a lightweighted structure.
+A full multi-part 1U CubeSat structural assembly with mass-optimized lattice paneling and a deployable solar panel mechanism, modeled in SolidWorks and verified with FEA. This is a follow-up to a simpler single-body CubeSat chassis, rebuilt from the ground up as a real multi-part assembly with bolted joints, a working hinge mechanism, and a lightweighted structure.
 
 ## Overview
 
