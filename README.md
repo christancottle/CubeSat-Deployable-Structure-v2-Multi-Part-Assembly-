@@ -15,7 +15,7 @@ Where v1 modeled the CubeSat structure as a single solid body, v2 rebuilds it as
 - **Payload placeholder:** a custom-density block (~0.4 kg) representing a generic electronics/battery stack, for a real mass budget check
 - **Material:** 6061-T6 aluminum (structure), custom-density placeholder (payload)
 
-![Deployed isometric view](images/deployed_isometric.png)
+![Deployed isometric view](isoviewv2.png)
 ![Stowed configuration](images/stowed_view.png)
 
 ## Structural Analysis
