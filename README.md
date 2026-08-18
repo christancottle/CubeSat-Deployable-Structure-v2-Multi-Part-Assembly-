@@ -16,7 +16,7 @@ Where v1 modeled the CubeSat structure as a single solid body, v2 rebuilds it as
 - **Material:** 6061-T6 aluminum (structure), custom-density placeholder (payload)
 
 ![Deployed isometric view](isoviewv2.png)
-![Stowed configuration](images/stowed_view.png)
+![Stowed configuration](stowedview.png)
 
 ## Structural Analysis
 
