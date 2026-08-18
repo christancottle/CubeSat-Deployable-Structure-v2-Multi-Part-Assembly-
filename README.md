@@ -42,7 +42,7 @@ The solar panels rotate freely about a two-point knuckle hinge, modeled with Sol
 ## Repository Contents
 
 ```
-CAD/          SolidWorks assembly and part files, STEP export
+CAD/          SolidWorks assembly and part files
 drawings/     Dimensioned engineering drawing (PDF)
 analysis/     FEA result screenshots and summary
 images/       Renders used in this README
